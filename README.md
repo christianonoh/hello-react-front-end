@@ -31,7 +31,7 @@
 
 Hello-react-front-end is a react app that display a random greeting that is fetched by a rails API.
 
-Link to rails App: https://github.com/smunoz1988/hello-rails-back-end
+Link to rails App: https://github.com/christianonoh/hello-rails-back-end
 
 ## 🛠 Built With <a name="built-with"></a>
 
